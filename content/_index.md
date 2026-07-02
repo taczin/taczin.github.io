@@ -33,7 +33,7 @@ sections:
       # Contact (add or remove contact options as necessary)
       email: tamaraczinczoll@gmail.com
       address:
-        street: Prof.-Dr.-Helmert-Str. 2-3
+        street: 'HPI, Prof.-Dr.-Helmert-Str. 2-3'
         city: Potsdam
         postcode: '14482'
         country: Germany
