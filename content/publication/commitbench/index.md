@@ -1,42 +1,40 @@
 ---
-title: 'Learning to Predict Usage Options of Product Reviews with LLM-Generated Labels'
+title: 'CommitBench: A Benchmark for Commit Message Generation'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Leo Kohlenberg
-  - Leonard Horns
-  - Frederic Sadrieh
-  - Nils Kiele
-  - Matthis Clausen
-  - Konstantin Ketterer
-  - Avetis Navasardyan
+  - Maximilian Schall
   - admin
   - Gerard de Melo
-  - Ralf Herbrich
 
-date: '2024-10-01T00:00:00Z'
-doi: ''
+date: '2024-03-01T00:00:00Z'
+doi: '10.1109/SANER60148.2024.00080'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2024-10-01T00:00:00Z'
+publishDate: '2024-03-01T00:00:00Z'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ['manuscript']
+publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: 'arXiv:2410.12470'
-publication_short: ''
+publication: 'In *2024 IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER)*, pp. 728-739'
+publication_short: In *SANER 2024*
 
 abstract: ''
 
 # Summary. An optional shortened abstract.
 summary: ''
 
-tags: []
+tags:
+  - Commit Message Generation
+  - Dataset
+  - Natural Language Processing
+  - Benchmark testing
+  - Transformers
 
 # Display this page in the Featured widget?
 featured: false
@@ -46,13 +44,13 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://arxiv.org/pdf/2410.12470'
+url_pdf: 'https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10589795'
 url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: 'https://arxiv.org/abs/2410.12470'
+url_source: 'https://doi.org/10.1109/SANER60148.2024.00080'
 url_video: ''
 
 # Associated Projects (optional).
